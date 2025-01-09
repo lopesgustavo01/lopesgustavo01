@@ -34,8 +34,8 @@ I'm currently developing a VR game focused on treating specific phobias, like ac
 - 🤝 **Volunteered** in various development projects focused on front-end technologies.
 
 ## 💬 **Let's Connect**
-- 📧 **Email**: [luizgustavo@example.com](mailto:lglopes1789@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/luizgustavoslopes]([https://linkedin.com/in/luizgustavoslopes](https://www.linkedin.com/in/luiz-gustavo-souza-lopes-a591b9239/))
+- 📧 **Email**: [lglopes1789@gmail.com](mailto:lglopes1789@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/luizgustavoslopes](https://www.linkedin.com/in/luiz-gustavo-souza-lopes-a591b9239/)
 - 🕹️ **GitHub**: [github.com/luizgustavo](https://github.com/luizgustavo)
 
 

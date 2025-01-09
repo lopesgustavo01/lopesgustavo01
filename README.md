@@ -26,23 +26,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
   <mark><img src="https://img.shields.io/badge/NoSQL-4CAF50?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL"/></mark>
 </p>
 
-### **Tools & Platforms**
-<p align="left">
-  <mark><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></mark>
-  <mark><img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white" alt="Serverless"/></mark>
-  <mark><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/></mark>
-  <mark><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/></mark>
-</p>
-
 ## 🎮 **VR & Game Development**
 I'm currently developing a VR game focused on treating specific phobias, like acrophobia and arachnophobia, using Unity. The project aims to provide a safe environment for exposure therapy.
-
-## 🌱 **Learning Journey**
-I'm always looking to improve my skills and explore new technologies. Currently, I'm diving deeper into:
-- 🎨 **Shaders and materials** in Unity.
-- 🌬️ **Physics-based animations** for immersive game experiences.
-- 🔍 **Machine Learning** for adaptive game interactions.
-
 
 ## 🏆 **Achievements**
 - 🎓 **Degree in Computer Engineering** from Universidade Federal do Rio Grande.
